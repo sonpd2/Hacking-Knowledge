@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo Name="Brassica admin" CompanyName="Brassica" EmailID="user@brassica.net" ExpiryDate="2077-08-18" ACNTRL="NO" LicenseType="Registered" Key="nJbGSnDTGRbp9NS3GAPDndPQpy7TQncRdP3y71b7KJQVxySzndPTQ7KzJp33fdDxKJf3G1Pzlpf39QTTfpyXGzlDf9QGaPDnd9a7xPJV">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Name="AdventNet ManageEngine OpManager" Version="12" Type="Enterprise" Category="Enterprise"/>
+      <Component Name="Topo">
+         <Properties Name="NumberOfDevices" Value="unlimited"/>
+         <Properties Name="DeviceClassName" Value="com.adventnet.me.opmanager.topodb.OpManagerObject"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="unlimited"/>
+         <Properties Name="BEFailOver" Value="false"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfClients" Value="unlimited"/>
+         <Properties Name="NumberOfUsers" Value="unlimited"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="unlimited"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="2"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="unlimited"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="unlimited"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="unlimited"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="unlimited"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="FailOver"/>
+      <Component Name="SwitchPortMapper"/>
+      <Component Name="IPAddressManager"/>
+      <Component Name="FWA"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="NA">
+         <Properties Name="NumberOfInterfaces" Value="unlimited"/>
+      </Component>
+      <Component Name="BILLING"/>
+      <Component Name="NBAR_CBQOSMONITORING"/>
+      <Component Name="CAPACITYPLANNING"/>
+      <Component Name="NBA"/>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="unlimited"/>
+      </Component>
+      <Component Name="Vectorwise"/>
+      <Component Name="Storage">
+         <Properties Name="NumberOfDisks" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNKsys8dFORvQmKnviXRj4ovs8vRj4YveGv48m8LNKsvY83vdFORvQmKnMPnAbnDnjnnAlpctjPApAPDnjrOtjnOMoOBbP7rAbnDnjlljbGv48m8LNKsvYXFRv4NjFORvQmKnAns8skLXNAvsKXP4jjrAafRviXNXMssvRGGApjRvHHXM4RjpCY48voRv3OL8XfNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3gGv48m8LNKoPwFORvQmKnoPwGv48m8LNK4NKjPRvswsKLptjLX8YjoGv48m8LNKsyYXrFORvQmKnvv8edVyYXrGv48m8LNKs4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAloWsRj48NjMFORvQmKnpjjeGv48m8LNKs4NviAFORvQmKns4NviAGv48m8LNKsRvswFORvQmKnGv48m8LNKs4Nv8LPFORvQmKnsRvswvsLXFRv3OL8XfgbGv48m8LNKs4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo4YvJQORviXNXMHOIQGjHj4IRviXNXmHjIvmI4vN4Nv3GXImjYvmXnssXLPvY83vdGv48m8LNKsvY83vdFORvQmKnjHjtvs8RHRv4Ngvs8RHRv4NgW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
